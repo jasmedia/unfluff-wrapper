@@ -1,6 +1,6 @@
 {
     "name": "unfluff-wrapper",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Web page content extractor ",
     "scripts": {
         "test": "echo \"no test specified\""
