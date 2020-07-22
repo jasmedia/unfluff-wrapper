@@ -35,6 +35,7 @@
         "lodash": "~4.17.10",
         "xregexp": "~2.0.0"
     },
-    "publishConfig": { "registry": "https://registry.npmjs.org/" }
-
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    }
 }
