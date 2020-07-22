@@ -16,7 +16,7 @@
         "article",
         "text"
     ],
-    "main": "lib/unfluff.js",
+    "main": "lib/wrapper.js",
     "directories": {
         "bin": "bin",
         "lib": "lib",
@@ -34,5 +34,7 @@
         "optimist": "~0.6.1",
         "lodash": "~4.17.10",
         "xregexp": "~2.0.0"
-    }
+    },
+    "publishConfig": { "registry": "https://registry.npmjs.org/" }
+
 }
