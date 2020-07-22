@@ -1,0 +1,38 @@
+{
+    "name": "unfluff-wrapper",
+    "version": "1.0.0",
+    "description": "Web page content extractor ",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jasmedia/unfluff-wrapper.git"
+    },
+    "keywords": [
+        "extractor",
+        "web",
+        "page",
+        "article",
+        "text"
+    ],
+    "main": "lib/unfluff.js",
+    "directories": {
+        "bin": "bin",
+        "lib": "lib",
+        "test": "test"
+    },
+    "author": "Jaseem <jasmedia.jas@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jasmedia/unfluff-wrapper/issues"
+    },
+    "homepage": "https://github.com/jasmedia/unfluff-wrapper#readme",
+    "dependencies": {
+        "got": "^11.5.1",
+        "cheerio": "~0.22.0",
+        "optimist": "~0.6.1",
+        "lodash": "~4.17.10",
+        "xregexp": "~2.0.0"
+    }
+}
